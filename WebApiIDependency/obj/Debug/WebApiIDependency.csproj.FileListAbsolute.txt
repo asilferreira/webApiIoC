@@ -1,0 +1,286 @@
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\ApplicationInsights.config
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\WebApiIDependency.dll.config
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\WebApiIDependency.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\WebApiIDependency.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\csc.exe
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\csc.exe.config
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\csc.rsp
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\csi.exe
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\csi.exe.config
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\csi.rsp
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.AppContext.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Console.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.IO.Compression.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Claims.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.ValueTuple.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\vbc.exe
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\vbc.exe.config
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\vbc.rsp
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\VBCSCompiler.exe
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Antlr3.Runtime.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.Web.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Newtonsoft.Json.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Net.Http.Formatting.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Helpers.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.WebHost.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Mvc.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Optimization.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Razor.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.Razor.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\WebGrease.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Newtonsoft.Json.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Net.Http.Formatting.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Helpers.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.WebHost.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Mvc.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Optimization.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Razor.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.Razor.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Antlr3.Runtime.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.Web.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\obj\Debug\WebApiIDependency.csproj.CoreCompileInputs.cache
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\obj\Debug\WebApiIDependency.csproj.CopyComplete
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\obj\Debug\WebApiIDependency.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\obj\Debug\WebApiIDependency.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\obj\Debug\WebApiIDependency.csprojAssemblyReference.cache
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\CommonServiceLocator.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.Abstractions.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.Configuration.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.Container.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.Interception.Configuration.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.Interception.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.RegistrationByConvention.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.ServiceLocation.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\CommonServiceLocator.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.Abstractions.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.Configuration.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.Container.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.Interception.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.Interception.Configuration.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.RegistrationByConvention.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Unity.ServiceLocation.pdb
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Owin.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.Owin.dll
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ferreira.alexandre\source\repos\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.Owin.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\ApplicationInsights.config
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\WebApiIDependency.dll.config
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\WebApiIDependency.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\WebApiIDependency.pdb
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\csc.exe
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\csc.exe.config
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\csc.rsp
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\csi.exe
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\csi.exe.config
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\csi.rsp
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.AppContext.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Collections.Immutable.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Console.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.IO.Compression.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.IO.FileSystem.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.IO.Pipes.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Reflection.Metadata.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.AccessControl.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Claims.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.ValueTuple.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Xml.XPath.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\vbc.exe
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\vbc.exe.config
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\vbc.rsp
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\VBCSCompiler.exe
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\roslyn\VBCSCompiler.exe.config
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Antlr3.Runtime.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\CommonServiceLocator.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.DependencyCollector.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.Web.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.WindowsServer.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.ApplicationInsights.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Web.Infrastructure.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Newtonsoft.Json.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Owin.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Net.Http.Formatting.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Helpers.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.Owin.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.WebHost.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Mvc.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Optimization.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Razor.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.Deployment.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.Razor.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.Abstractions.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.Configuration.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.Container.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.Interception.Configuration.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.Interception.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.RegistrationByConvention.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.ServiceLocation.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\WebGrease.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\CommonServiceLocator.pdb
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.Practices.ServiceLocation.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Net.Http.Formatting.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.Owin.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Newtonsoft.Json.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Helpers.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Http.WebHost.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Mvc.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Optimization.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.Razor.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.Deployment.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Web.WebPages.Razor.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.Abstractions.pdb
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.Configuration.pdb
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.Container.pdb
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.Interception.pdb
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.Interception.Configuration.pdb
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.RegistrationByConvention.pdb
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Unity.ServiceLocation.pdb
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Antlr3.Runtime.pdb
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.DependencyCollector.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.WindowsServer.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.AI.Web.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Net.Http.Formatting.resources.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Http.resources.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Helpers.resources.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Http.WebHost.resources.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Mvc.resources.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Optimization.resources.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.Razor.resources.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.WebPages.resources.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\obj\Debug\WebApiIDependency.csprojAssemblyReference.cache
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\obj\Debug\WebApiIDependency.csproj.CoreCompileInputs.cache
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\obj\Debug\WebApiIDependency.csproj.CopyComplete
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\obj\Debug\WebApiIDependency.dll
+F:\Arquivos\modelos de implementação sistemas\WebApiIDependency\WebApiIDependency\obj\Debug\WebApiIDependency.pdb
